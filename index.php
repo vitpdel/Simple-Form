@@ -1,6 +1,6 @@
 <?php
 
-$mysql  =   mysqli_connect("localhost", "root", "thesocialnetwork2004", "form");
+$mysql  =   mysqli_connect("localhost", "root", "", "form");
 $mysql->set_charset("utf8");
 
 $nome   =   $_POST["nome"];
