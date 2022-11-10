@@ -1,0 +1,44 @@
+main{
+    width: 940px;
+    margin: 0   auto;
+}
+
+form{
+    margin: 40px    0;
+    padding: 205;
+}
+
+form    label{
+    display: block;
+    font-size: 20px;
+    margin: 0   0   10px;
+}
+
+.inputs{
+    display: block;
+    margin: 0    0   25px;
+    padding: 5px   20px;
+    width: 25%;
+    border-radius: 10px;
+}
+
+.inputs:hover{
+    transform: scale(110%);
+    transition: 0.2s    transform;
+}
+
+.enviar{
+    margin:20px 0;
+    display: block;
+    width:25%;
+    padding: 10px    20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.enviar:hover{
+    background: #999999;
+    transition: 0.8s    background;
+    transform: scale(120%);
+    transition: 0.2s    transform;
+}
