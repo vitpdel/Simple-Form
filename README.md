@@ -1,2 +1,2 @@
 # Simple-Form
-A simple form made
+A simple form made with PHP, MySQL
